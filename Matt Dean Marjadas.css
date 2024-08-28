@@ -1,0 +1,60 @@
+#headerintro{
+    color: antiquewhite;
+    background-color: rgb(102, 103, 104);
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+  
+  #navbar ul{
+    list-style-type: none;
+    background-color: rgb(102, 103, 104);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    color:antiquewhite;
+    text-align: center;
+  }
+  
+  #navbar a{
+     text-decoration: none;
+     padding: 15px;
+     display: block;
+     text-align: center;
+  }
+  
+  #navbar a:hover{
+    color: antiquewhite;
+  }
+  
+  #navbar li{
+    float: left;
+  }
+  
+  body{
+      background-image: url(Exiled.images/download\ \(2\).jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color: grey;     
+  }
+  
+  #intro{ font-size: larger; font-family: Arial, sans-serif; color: black;
+  font-weight: bold;
+  }
+  
+  #krad { border: 3px solid; box-shadow: 5px 4px 5px antiquewhite , 7px 4px 7px cyan;
+    border-radius: 200px; 
+      float: right;
+      position: relative;
+   margin-right: 100px;   
+  }
+  #icons {
+      color: antiquewhite;
+  }
+  
+  
+  
+  
+  
